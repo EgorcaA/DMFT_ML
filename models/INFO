@@ -1,0 +1,4 @@
+v2: inp 42
+v3: inp 32 Trained on one-shot samples
+v4: inp 32 v3 + Trained on intermediate iterations U [1, 5] beta [5, 20] 
+v5: inp 32 v4 + Trained on intermediate iterations U [2, 7] beta [20, 50] 
